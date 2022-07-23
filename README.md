@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mielkevinc3
 - 👀 I’m interested in building all kind of applications. Mainly frontend and little applications.
 - 🌱 I’m currently learning the MEAN stack.
-- 💞️ I’m a university student in Karlsruhe, Germany, currently working on my bachelor degree in business informatics.
+- 💞️ I’m working as a software developer after finishing my bachelors degree in business informatics at the university in Karlsruhe, Germany.
 - 📫 Just write me on GitHub to contact me.
 
 <!---
