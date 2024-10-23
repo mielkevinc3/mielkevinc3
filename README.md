@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mielkevinc3
-- 👀 I’m interested in building all kind of applications. Mainly frontend and little applications.
-- 🌱 I’m currently learning the MEAN stack.
-- 💞️ I’m working as a software developer after finishing my bachelors degree in business informatics at the university in Karlsruhe, Germany.
+- 💞️ I'm working as a software developer focused on frontend development after finishing my bachelors degree in business informatics at the university in Karlsruhe, Germany. Started studying in summer 2024 for my masters degree in computer science with focus on ML and AI ath the university of Karlsruhe.
+- 👀 I’m interested in building all kind of applications. Recently building all kinds of AI models for my studies and integrating them in applications to solve various tasks.
+- 🌱 I’m currently learning to build all kinds of AI models from scretch and discovering the intrinsic workings of them.
 - 📫 Just write me on GitHub to contact me.
 
 <!---
